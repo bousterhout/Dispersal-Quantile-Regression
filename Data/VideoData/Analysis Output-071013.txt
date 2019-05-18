@@ -1,0 +1,11 @@
+	Trial duration	Arena settings	Recording duration	Date	TimeMissing	Distance moved Center-point Total m	Movement Moving / Center-point Cumulative Duration s	Movement Moving / Center-point Latency to first s	Velocity Center-point Mean m/s
+Trial     1	+ 0:14:13.8	T1.C1.TR	+ 0:10:40.3	7/10/2013	0	12.0568	410.88	10.56	0.0188388
+Trial     2	+ 0:14:13.8	T1.C1.BR	+ 0:10:40.3	7/10/2013	0	4.49993	240.64	14.72	0.00703114
+Trial     3	+ 0:10:24.3	T1.C2.TR	+ 0:07:48.2	7/10/2013	0	9.26195	247.36	8.32	0.0197973
+Trial     4	+ 0:10:24.3	T1.C2.BR	+ 0:07:48.2	7/10/2013	0	0.173935	48.64	3.52	0.000371783
+Trial     5	+ 0:10:24.3	T1.C2.BL	+ 0:07:48.2	7/10/2013	0	2.15129	118.4	55.04	0.00459835
+Trial     6	+ 0:10:24.3	T1.C2.TL	+ 0:07:48.2	7/10/2013	0	2.59993	148.16	5.76	0.00555731
+Trial     7	+ 0:10:24.3	T1.C3.TR	+ 0:07:48.2	7/10/2013	0	0.128441	34.56	56.64	0.00027454
+Trial     8	+ 0:10:24.3	T1.C3.BR	+ 0:07:48.2	7/10/2013	0	0.079815	20.16	76.16	0.000170603
+Trial     9	+ 0:10:24.3	T1.C3.BL	+ 0:07:48.2	7/10/2013	0	0.660566	97.6	67.52	0.00141195
+Trial    10	+ 0:10:24.3	T1.C3.TL	+ 0:07:48.2	7/10/2013	0	1.46529	120.32	93.44	0.00313203
